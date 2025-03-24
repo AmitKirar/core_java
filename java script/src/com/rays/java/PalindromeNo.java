@@ -15,10 +15,6 @@ public class PalindromeNo {
 		}
 		if (i == rnum) {
 
-			
-			
-			
-			
 			System.out.println(i + " is palindrome");
 
 		} else {
